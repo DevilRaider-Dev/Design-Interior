@@ -82,6 +82,7 @@ header article {
 
 header article p {
     font-size: 1.2rem;
+    text-align: center;
 }
 
 header section {
